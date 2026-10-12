@@ -1,0 +1,6 @@
+{
+  "name": "Kiran LLM — AI Technical Learning Assistant",
+  "description": "Beginner-friendly AI learning platform where students explore technical courses and ask questions to Kiran LLM AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
